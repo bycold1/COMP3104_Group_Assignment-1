@@ -1,3 +1,5 @@
 It's a program prepared by Professor Pritesh Patel
 
 The Contact hours are total 42 hours and Credit Hours are total 3
+
+The students in this course will learn the procedures, protocols and best practices that a DevOps engineer brings to a workplace environment to increase productivity.
