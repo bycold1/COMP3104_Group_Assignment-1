@@ -2,4 +2,4 @@ Learning devops has a variaty of advatnages
 for example you could increase efficiency through automation
 better communation and collaboration
 Shortening productions cycle 
-and higher deployment success rate
+higher deployment success rate
