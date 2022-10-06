@@ -1,0 +1,10 @@
+name: run 101003196
+
+on: [push]
+jobs:
+  do-a-thing:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: print info
+        run: cat 101003196_*
