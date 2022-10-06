@@ -1,5 +1,4 @@
-name: 101332152-Mehrad
-on: [push]
+on: push
 jobs:
   echo-input:
     runs-on: ubuntu-latest
