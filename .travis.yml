@@ -1,14 +1,11 @@
-language: node_js
-node_js:
-  - "16.17.0"
-deploy:
-  provider: pages
-  skip_cleanup: true
-  github_token: $github_token
-  local_dir: build
-  on:
-    branch: 101003196-kim
-install:
-  - npm install
-script:
-  - npm test
+name: run 101003196
+
+on: [push]
+jobs:
+  do-a-thing:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      -name: print info
+        run: cat 101003196_*
