@@ -1,4 +1,4 @@
-# COMP 3104 Group Assignment 1:
+COMP 3104 group assignment
 
 ## Details:
 ### Minkyu Kim 101003196
@@ -13,3 +13,5 @@
 ![ci-check 101331770](https://github.com/multimokia/COMP3104_Group_Assignment/actions/workflows/ci-check.yml/badge.svg)
 
 ---
+### Benjamin Sarras 101324243
+![ci-check 101331770](https://github.com/multimokia/COMP3104_Group_Assignment/actions/workflows/ci.yml/badge.svg)
