@@ -1,0 +1,5 @@
+COMP3104 Devops
+currently learning about github gitbash and github actions
+later on we are gonna learn about 
+Hosting High Geared Single Page Applications & Work tracking tools
+
