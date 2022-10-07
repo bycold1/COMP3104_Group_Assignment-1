@@ -1,0 +1,2 @@
+These concepts make it possible for the processes between development teams and operations/administration teams to be fully automated.
+That way, the relations and interactions between both these areas become much more straightforward, which in turn makes software internal creation faster, with fewer expenses and higher quality.
