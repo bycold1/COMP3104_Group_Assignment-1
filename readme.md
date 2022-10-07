@@ -13,3 +13,5 @@ COMP 3104 group assignment
 ![ci-check 101331770](https://github.com/multimokia/COMP3104_Group_Assignment/actions/workflows/ci-check.yml/badge.svg)
 
 ---
+### Benjamin Sarras 101324243
+![ci-check 101331770](https://github.com/multimokia/COMP3104_Group_Assignment/actions/workflows/ci.yml/badge.svg)
